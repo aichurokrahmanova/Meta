@@ -1,0 +1,197 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    /*overflow: hidden;*/
+
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.header {
+    background: url("../img/abstract-flowing-neon-wave-background 1.jpg") no-repeat top/cover;
+    padding-bottom: 73px;
+
+}
+
+.row {
+    width: 396.48px;
+    height: 0;
+    border: 0.969394px solid #FFFFFF;
+}
+
+header a {
+    color: #FFFFFF;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.menu li {
+    margin-right: 74px;
+}
+
+.nav {
+    display: flex;
+    padding-top: 57px;
+}
+
+.img {
+    margin-left: 20px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 68.7982px;
+    line-height: 83px;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 60px;
+    text-shadow: 0 4.89173px 34.2421px rgba(255, 255, 255, 0.33);
+}
+
+.title1 {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 67.6875px;
+    line-height: 81px;
+    margin-top: -65px;
+    letter-spacing: 0.055em;
+    text-transform: uppercase;
+    text-shadow:
+            0 2px 2px rgba(218, 204, 255, 0.8),
+            0 -2px 2px rgba(218, 204, 255, 0.8),
+            2px 0 2px rgba(218, 204, 255, 0.8),
+            -2px 0 2px rgba(218, 204, 255, 0.8)
+;
+}
+
+.desc {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19.3076px;
+    line-height: 23px;
+    color: #FFFFFF;
+    width: 280.84px;
+    height: 39.23px;
+    margin-top: -10px;
+    margin-left: 5px;
+}
+
+.btn {
+    background: #FFFFFF;
+    border-radius: 7.75515px;
+    width: 190.97px;
+    height: 61.07px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 15.5103px;
+    line-height: 19px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #000000;
+    margin-top: 60px;
+}
+
+.button {
+    display: flex;
+}
+
+.btn1 {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 17.6483px;
+    line-height: 21px;
+    letter-spacing: 0.005em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+
+.btn2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.2109px;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin-top: 90px;
+    margin-left: -53px;
+}
+
+.img1 {
+    width: 852.93px;
+    height: 627.97px;
+    margin-left: 340px;
+    margin-top: -400px;
+}
+
+/*.reg{*/
+/*    border-radius: 27.143px 27.143px 0 0;*/
+/*    margin-left: -250px;*/
+/*    margin-top: -240px;*/
+/*}*/
+/*.reg1{*/
+/*    */
+/*}*/
+.img2 {
+    margin-left: -50px;
+    margin-top: -236px;
+    width: 298px;
+    height: 270px;
+}
+
+.desc1 {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-left: -5px;
+    margin-top: -72px;
+}
+
+.desc2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin-left: -2px;
+    margin-top: -12px;
+}
+
+.block {
+    width: 40px;
+    height: 40px;
+    background: radial-gradient(7583.44% 2302.4% at 42.22% 0.47%, #FE11BE 0%, #640A4A 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+    box-sizing: border-box;
+    box-shadow: 0 2.50252px 11.2613px rgba(0, 0, 0, 0.1), inset 0px 3.23855px 3.23855px rgba(0, 0, 0, 0.25);
+    transform: rotate(90deg);
+    margin-left: 160px;
+    margin-top: -110px;
+}
+
+.block1 {
+    width: 26px;
+    height: 26px;
+    background: #FFFFFF;
+    border-radius: 80%;
+    transform: rotate(90deg);
+    margin-top: -33px;
+    margin-left: 167px;
+}
